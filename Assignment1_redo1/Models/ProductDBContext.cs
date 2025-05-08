@@ -29,35 +29,35 @@ namespace Assignment1_redo1.Models //2
                 {
                     ProductId = 2,
                     Name = "Maxi Dress",
-                    Description = "Flowing, floor-length maxi dress...",
+                    Description = "Flowing, floor-length maxi dress made from lightweight fabric.",
                     Price = 59.99M
                 },
                 new Product
                 {
                     ProductId = 3,
                     Name = "Slim Fit Chinos",
-                    Description = "A pair of slim-fit chinos...",
+                    Description = "A pair of slim-fit chinos made from lightweight cotton...",
                     Price = 44.95M
                 },
                 new Product
                 {
                     ProductId = 4,
                     Name = "Hoodie",
-                    Description = "Cozy hoodie with a bold graphic...",
+                    Description = "Cozy hoodie with a bold graphic print on the front.",
                     Price = 49.99M
                 },
                 new Product
                 {
                     ProductId = 5,
                     Name = "Jogger Sweatpants",
-                    Description = "Comfortable and stylish...",
+                    Description = "Comfortable and stylish jogger sweatpants with an elastic waist band...",
                     Price = 39.99M
                 },
                 new Product
                 {
                     ProductId = 6,
                     Name = "Running Shoes",
-                    Description = "High-performance running shoes...",
+                    Description = "High-performance running shoes designed with breathable mesh...",
                     Price = 89.99M
                 }
             );
